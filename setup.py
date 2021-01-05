@@ -23,7 +23,7 @@ setup(
         "numpy==1.19.3",
         "six==1.15.0",
         "tqdm==4.51.0",
-        "torch==1.6.0",
+        "torch==1.7.0+cu101",
         "torchtext==0.5.0",
         "future==0.18.2",
         "configargparse==1.2.3",
